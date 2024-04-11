@@ -1,2 +1,5 @@
-# kil-shell-framework
-kil shell scripts framework
+<hr>
+
+# 👁️‍🗨️ kil shell framework
+
+### 🎯 제작 목적
